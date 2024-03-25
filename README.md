@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 
 🔭 Hello. I'm a data analyst who wants to change the world by finding hidden insights in data.<br>
   🌱 I’m currently learning CV<br><br>
-#  📄 Portfolio<br><br>
+<!--  📄 Portfolio<br><br> -->
   📋 Skills<br>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
