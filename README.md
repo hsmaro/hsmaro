@@ -12,7 +12,8 @@ Here are some ideas to get you started: -->
 
 🔭 Hello. I'm a data analyst who wants to change the world by finding hidden insights in data.<br>
   🌱 I’m currently learning CV<br><br>
-<!--  📄 Portfolio<br><br> -->
+  📄 Portfolio<br>
+  [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>](https://granite-goldenrod-0c0.notion.site/Portfolio-ae04367c47b0437883a56e976da43d79)<br><br>
   📋 Skills<br>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
