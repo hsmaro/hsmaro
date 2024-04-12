@@ -14,6 +14,8 @@ Here are some ideas to get you started: -->
   🌱 I’m currently learning CV<br><br>
   📄 Portfolio<br>
   [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>](https://granite-goldenrod-0c0.notion.site/Portfolio-ae04367c47b0437883a56e976da43d79)<br><br>
+  📄 Blind Portfolio<br>
+  [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>](https://granite-goldenrod-0c0.notion.site/Blind-Portfolio-11b71a7be32541289bf90bd55dfcd338?pvs=4)<br><br>
   📋 Skills<br>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
