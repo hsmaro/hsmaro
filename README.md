@@ -8,9 +8,9 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   
-# I'm Hyeongseok Cha, Data Analyst 👨‍💻
+# I'm Hyeongseok Cha👨‍💻
 
-🔭 Hello. I'm a data analyst who wants to change the world by finding hidden insights in data.<br>
+🔭 Hello. I'm a engineer who wants to change the world by finding hidden insights in data.<br>
   🌱 I’m currently learning CV<br><br>
   📄 Portfolio<br>
   [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>](https://granite-goldenrod-0c0.notion.site/Portfolio-ae04367c47b0437883a56e976da43d79)<br><br>
