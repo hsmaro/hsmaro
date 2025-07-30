@@ -30,7 +30,9 @@ Here are some ideas to get you started: -->
   ETC<br>
   ✏️: Study log<br>
   [<img src="https://img.shields.io/badge/Velog's-20C997?style=flat-square&logo=Velog's&logoColor=white"/>](https://velog.io/@maro)
-  [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/hsmaro)<br><br>
+  [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/hsmaro)
+  [<img src="https://img.shields.io/badge/T-Story-EE4C2C?style=flat-square&logo=T-Story&logoColor=000000"/>](https://maru-maro.tistory.com/)
+  <br><br>
   💻 Top Language<br>
   ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsmaro&langs_count=10&layout=compact&theme=dark)](https://github.com/hsmaro)<br>
 
