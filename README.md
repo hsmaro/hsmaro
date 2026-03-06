@@ -44,19 +44,19 @@ by discovering hidden insights in data.
 
 ---
 
-# 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hsmaro&show_icons=true&theme=dark"/>
+<img src="https://readme-stats.demolab.com/api?username=hsmaro&show_icons=true&theme=dark"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsmaro&layout=compact&theme=dark"/>
+<img src="https://readme-stats.demolab.com/api/top-langs/?username=hsmaro&layout=compact&theme=dark"/>
 
 </div>
 
----
+--- -->
 
 # ✏️ Study Log
 
